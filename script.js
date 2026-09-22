@@ -7,9 +7,8 @@ const dialogue = document.querySelector('[data-dialogue]');
 const dialogueButton = document.querySelector('.dialogue-next');
 
 const dialogueLines = [
-  '数学像一片过分辽阔的天空。现在的我，正试着辨认其中最想追随的那条轨迹。',
-  '从环与理想，到模与范畴——抽象并不是远离具体，而是在寻找事物共同的形状。',
-  '这一页只是序章。答案还很远，但值得认真走过的问题，已经开始出现。',
+  '自由是遗忘的左伴随。',
+  '人よ、幸福に生きろ!',
 ];
 
 let dialogueIndex = 0;
